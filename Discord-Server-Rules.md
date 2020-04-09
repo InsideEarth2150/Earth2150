@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 # Discord Server Rules
 
 ## General Server Rules
