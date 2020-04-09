@@ -2,6 +2,7 @@
 
 # Welcome to the InsideEarth, Earth2150 Site!
 
+ - <a href="Discord-Server-Rules.md">Discord Server Rules</a>
  - [Discord Server Rules](https://lnsideearth2150.github.io/Earth2150/Discord-Server-Rules.md)
  - [Wiki](https://lnsideearth2150.github.io/Earth2150/Wiki.md)
  - [Downloads](https://lnsideearth2150.github.io/Earth2150/Downloads.md)
