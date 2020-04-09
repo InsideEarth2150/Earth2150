@@ -6,6 +6,3 @@
  - [Wiki](https://lnsideearth2150.github.io/Earth2150/Wiki.md)
  - [Downloads](https://lnsideearth2150.github.io/Earth2150/Downloads.md)
  - [Websites](https://lnsideearth2150.github.io/Earth2150/Websites.md)
-
-
-123
