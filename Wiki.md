@@ -1,4 +1,4 @@
-Welcome to the Earth2150 wiki!
+# Welcome to the Earth2150 wiki!
 
  - [Discord Server Rules](https://github.com/lnsideEarth2150/Earth2150/wiki/Discord-Server-Rules)
  - [Game Rules - MP](https://github.com/lnsideEarth2150/Earth2150/wiki/Game-Rules---Multiplayer)
