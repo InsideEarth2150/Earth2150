@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Discord Server Rules
 ---
 # Discord Server Rules
 
