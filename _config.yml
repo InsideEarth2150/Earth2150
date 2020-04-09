@@ -2,7 +2,7 @@
 # Site
 
 title: Base
-url: "https://orange-ape.cloudvent.net/"
+url: "https://lnsideearth2150.github.io/Earth2150/"
 baseurl:
 google_analytics_key:
 disqus_shortname:
@@ -10,7 +10,7 @@ newsletter_action:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Knowledge base template for Jekyll.
+description: Knowledge base template for Earth 2150.
 author:
   name:
   email:
