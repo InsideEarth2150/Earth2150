@@ -1,54 +1,76 @@
-# Docsy Jekyll Theme
+# Base
 
-[![CircleCI](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master.svg?style=svg)](https://circleci.com/gh/vsoch/docsy-jekyll/tree/master)
-<a href="https://jekyll-themes.com/docsy-jekyll/">
-    <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="Jekyll Themes Shield" >
-</a>
+Knowledge base template for Jekyll. Browse through a [live demo](https://orange-ape.cloudvent.net/).
 
-![https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png](https://raw.githubusercontent.com/vsoch/docsy-jekyll/master/assets/img/docsy-jekyll.png)
+![Base template screenshot](images/_screenshot.png)
 
-This is a [starter template](https://vsoch.github.com/docsy-jekyll/) for a Docsy jekyll theme, based
-on the Beautiful [Docsy](https://github.com/google/docsy) that renders with Hugo. This version is intended for
-native deployment on GitHub pages. The original [Apache License](https://github.com/vsoch/docsy-jekyll/blob/master/LICENSE) is included.
+Base was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
-## Changes
+Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
 
-The site is intended for purely documentation, so while the front page banner
-is useful for business or similar, this author (@vsoch) preferred to have
-the main site page go directly to the Documentation view. Posts
-are still provided via a feed.
+## Features
 
-## Usage
+* Tutorials organised by category
+* Two types of tutorials - text and video
+* Ability to have a "tutorial series"
+* FAQ section
+* Disqus comments
+* Sticky sidebar for main headings in tutorials
+* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* RSS/Atom feed
+* SEO tags
+* Google Analytics
 
-### 1. Get the code
+## Setup
 
-You can clone the repository right to where you want to host the docs:
+1. Add your site and author details in `_config.yml`.
+2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
+3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
 
-```bash
-git clone https://github.com/vsoch/docsy-jekyll.git docs
-cd docs
-```
+## Develop
 
-### 2. Customize
+Base was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
 
-To edit configuration values, customize the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml).
-To add pages, write them into the [pages](https://github.com/vsoch/docsy-jekyll/blob/master/pages) folder. 
-You define urls based on the `permalink` attribute in your pages,
-and then add them to the navigation by adding to the content of [_data/toc.myl](https://github.com/vsoch/docsy-jekyll/blob/master/_data/toc.yml).
-The top navigation is controlled by [_data/navigation.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_data/navigation.yml)
+Install the dependencies with [Bundler](http://bundler.io/):
 
-### 3. Options
+~~~bash
+$ bundle install
+~~~
 
-Most of the configuration values in the [_config.yml](https://github.com/vsoch/docsy-jekyll/blob/master/_config.yml) are self explanatory,
-and for more details, see the [getting started page](https://vsoch.github.io/docsy-jekyll/docs/getting-started)
-rendered on the site.
+Run `jekyll` commands through Bundler to ensure you're using the right versions:
 
-### 4. Serve
+~~~bash
+$ bundle exec jekyll serve
+~~~
 
-Depending on how you installed jekyll:
+## Editing
 
-```bash
-jekyll serve
-# or
-bundle exec jekyll serve
-```
+Base is already optimised for adding, updating and removing tutorials, navigation, footer and FAQ information in CloudCannon.
+
+The sticky sidebar in tutorials in populated by pulling out `<h2>` elements from the content.
+
+### Posts
+
+* Add, update or remove a post in the *Posts* collection.
+* The tutorials page is organised by categories.
+* Change the defaults when new posts are created in `_posts/_defaults.md`.
+
+### Post Series
+To create a new series:
+
+* Add a new document to the `sets` collection.
+* Set the `title` and `description`.
+
+To add a tutorial/post to a series:
+* Add a `set` field to the tutorial front matter which points to the file name of the desired set without the `.md` extention. e.g. If I have a set at `_sets/getting-started.md` I would use this in my tutorial front matter: `set: getting-started`.
+* Add a `set_order` field to the tutorial front matter and specify a number. This is the tutorials order in the set.
+
+### Navigation
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Navigation* section.
+
+### Footer
+
+* Exposed as a data file to give clients better access.
+* Set in the *Data* / *Footer* section.
