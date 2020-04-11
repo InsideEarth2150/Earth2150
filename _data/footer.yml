@@ -1,16 +1,4 @@
 - name:
-  link: https://facebook.com/cloudcannon
-  social_icon: Facebook
-  new_window: false
-- name:
-  link: https://twitter.com/cloudcannon
-  social_icon: Twitter
-  new_window: false
-- name:
-  link: https://youtube.com/c/cloudcannon
+  link: https://www.youtube.com/channel/UCqlMP95oNlx0tuTRZ4nMDVQ
   social_icon: YouTube
   new_window: true
-- name: 
-  link: https://instagram.com/
-  social_icon: Instagram
-  new_window: false
