@@ -1,9 +1,9 @@
 ---
 date: 2020-01-15
-title: Multiplayer Game Rule Options
+title: Game Rules
 description: 
 categories:
-  - Game
+  - Multiplayer
 type: Document
 ---
 ## General Rules 
