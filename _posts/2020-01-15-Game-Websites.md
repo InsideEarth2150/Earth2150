@@ -22,11 +22,11 @@ type: Document
 ## Review Sites
  - [Lets Play Archive](https://lparchive.org/Earth-2150-trilogy/)
 
-## Buy
+## Game Purchase
  - [GoG](https://www.gog.com/game/earth_2150_trilogy) << RECOMMENDED
  - [Steam](https://store.steampowered.com/app/253880/Earth_2150_Trilogy/)
- - [CD Keys](https://www.allkeyshop.com/blog/buy-earth-2150-the-moon-project-cd-key-compare-prices/)
- - [CD Keys](https://www.allkeyshop.com/blog/buy-earth-2150-lost-souls-cd-key-compare-prices/)
+ - [TMP - CD Keys](https://www.allkeyshop.com/blog/buy-earth-2150-the-moon-project-cd-key-compare-prices/)
+ - [LS - CD Keys](https://www.allkeyshop.com/blog/buy-earth-2150-lost-souls-cd-key-compare-prices/)
 
 ## Community
  - https://steamcommunity.com/groups/InsideEarth
