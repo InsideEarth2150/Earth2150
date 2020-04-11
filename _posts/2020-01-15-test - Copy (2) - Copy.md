@@ -1,0 +1,11 @@
+---
+date: 2020-01-15
+title: E2150 Intro
+video_id: G-XSFCl4w_s
+description: Test desc
+categories:
+  - Bugs
+type: Video
+set: Test Set
+set_order: 5
+---
