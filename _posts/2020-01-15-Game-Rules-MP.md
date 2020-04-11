@@ -6,12 +6,12 @@ categories:
   - Game
 type: Document
 ---
-# General Rules 
+## General Rules 
 _These rules are applied to all games_
  - No Smurfing
  - No map glitching
 
-# No Rules
+## No Rules
 
 **General**
  - Underground = Yes
@@ -24,7 +24,7 @@ _These rules are applied to all games_
  - UCS = No Limits
  - ED = No Limits
 
-# No Air
+## No Air
 
 **General**
  - Underground = Yes
@@ -37,17 +37,17 @@ _These rules are applied to all games_
  - UCS = No Limits
  - ED = No Limits
 
-# No Rushing
+## No Rushing
 
 As the title suggests, no rushing of the enemy player/team within the first 7 minutes of play.
 
 This can be applied to any other rule.
 
-# No MDW
+## No MDW
 
 As the title suggests, no MDW
 
 
-# No Turtling
+## No Turtling
 
 As the title suggests, no Turtling
