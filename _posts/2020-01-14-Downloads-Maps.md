@@ -6,8 +6,6 @@ categories:
   - Downloads
 type: Document
 ---
-# [Maps]
-
 *Place files in either location: \The Moon Project\Levels or \Lost Souls\Levels*
 
  - [Download Here](https://1drv.ms/u/s!Ajzl8qm2fVDy5E2OuNw0Krm0VIa5?e=b2gvsz)
