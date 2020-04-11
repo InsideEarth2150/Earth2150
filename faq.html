@@ -1,15 +1,24 @@
 ---
 faq:
-  - question: What is Jekyll?
-    answer: Jekyll is a simple, blog-aware, static site generator. It takes a template directory containing raw text files in various formats, runs it through a converter (like Markdown) and our Liquid renderer, and spits out a complete, ready-to-publish static website suitable for serving with your favorite web server.
-  - question: What is front matter?
-    answer: The front matter is where Jekyll starts to get really cool. Any file that contains a YAML front matter block will be processed by Jekyll as a special file. The front matter must be the first thing in the file and must take the form of valid YAML set between triple-dashed lines
-  - question: What is a static file?
-    answer: A static file is a file that does not contain any YAML front matter. These include images, PDFs, and other un-rendered content.
-  - question: What is a collection?
-    answer: Not everything is a post or a page. Maybe you want to document the various methods in your open source project, members of a team, or talks at a conference. Collections allow you to define a new type of document that behave like Pages or Posts do normally, but also have their own unique properties and namespace.
-  - question: What is a data file?
-    answer: In addition to the built-in variables available from Jekyll, you can specify your own custom data that can be accessed via the Liquid templating system. Jekyll supports loading data from YAML, JSON, and CSV files located in the  `_data` directory. Note that CSV files must contain a header row.
+  - question: What game versions are played in Multiplayer?
+    answer: 
+	>**[Game Ranger]**
+	>> [GameRanger](https://www.gameranger.com/) is the most use method for online multiplayer gameplay. If you do have a troublesome router, you can fix the problem by configuring the router to enable Universal Plug and Play (UPnP), or manually do port forwarding for UDP port 16000.
+	>**[EarthNet/MoonNet]** - _CURRENTLY BROKEN!_
+    >>EarthNet/MoonNet is still used by some but predominantly most use GameRanger due its simplified use and the need to not forward ports on most recent routers.
+  - question: I can't map gameranger to my install of Earth2150, why?
+    answer: To enable GameRanger to see TMP or LS from Steam, you must first move the Game Executable outside of the steam folder structure, if GR is still unable to see the game then COPY the entire game folder to a location outside of the steam folder structure (IE Desktop), however make sure you have fully patched to v2.2 before doing so.
+  - question: Ive run the patch intsller but it still shows the same version in game?
+    answer: Right click the patch executable and click "Run as Administrator". Make sure you have loaded the game at least once before installing.
+  - question: What ports need to be opened/forwarded to play on EarthNet/MoonNet?
+    answer: UDP 2300 - 2400 & UDP 47624
+	>>Click [Here](https://portforward.com/router.htm) and search for your router make/model for the relevant How-To Guide.
+  - question: Ingame Vidoes do not display/run, how do i fix this?
+    answer: You need to install the [K-Lite Codec Pack](https://www.codecguide.com/download_kl.htm) to enable vidoes to play within game.
+  - question: I dont seem to be able to connect to multiplayer games via GameRanger or EarthNet/MoonNet?
+    answer: Ensure Direct Play is installed and enabled by going into Settings **>** Programs & Features **>** Turn Windows Features on and off **>** Legacy Components **>** DirectPlay
+  - question: I heard that Earth 2170 was in development by the community, is this true?
+    answer: The programme of work is currently on hold as due to the developers (@.:LWA:.DreamMaker @Fenix)being on hiatus
 ---
 
 <h1>FAQ</h1>
