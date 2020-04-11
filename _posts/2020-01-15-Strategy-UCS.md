@@ -10,5 +10,5 @@ resources:
     link: 
 type: Video
 set: Strategy
-set_order: 1
+set_order: 2
 ---
