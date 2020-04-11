@@ -7,26 +7,26 @@ categories:
 type: Document
 ---
 ## Developer
-• [The Moon Project] http://www.moon-project.com/
-• [Reality Pump] http://www.realitypump.com/en/earth-2150-the-moon-project.html
+• [The Moon Project](http://www.moon-project.com)
+• [Reality Pump](http://www.realitypump.com/en/earth-2150-the-moon-project.html)
 
 ## Community Sites
-• [SpaceSurrim] https://surrim.org/moon-project/
-• [World Earth Center] http://wec.org.pl/
-• [BATTLEGROUNDS] http://www.angelfire.com/geek/ribdeth/
-• [Dimus III - Russian Site] https://moonproject.clan.su/board/
-• [VK - Russian Site] https://vk.com/earth21xx
-• [Sixty-Four] https://sixty-four.de/msc-web/earth/
-• [luke2840] http://luke2840.tripod.com/
+• [SpaceSurrim](https://surrim.org/moon-project/)
+• [World Earth Center](http://wec.org.pl/)
+• [BATTLEGROUNDS](http://www.angelfire.com/geek/ribdeth/)
+• [Dimus III - Russian Site](https://moonproject.clan.su/board/)
+• [VK - Russian Site](https://vk.com/earth21xx)
+• [Sixty-Four](https://sixty-four.de/msc-web/earth/)
+• [luke2840](http://luke2840.tripod.com)
 
 ## Review Sites
-• [Lets Play Archive] (https://lparchive.org/Earth-2150-trilogy/
+• [Lets Play Archive](https://lparchive.org/Earth-2150-trilogy/)
 
 ## Buy
-• [GoG] https://www.gog.com/game/earth_2150_trilogy << RECOMMENDED
-• [Steam] https://store.steampowered.com/app/253880/Earth_2150_Trilogy/
-• [CD Keys] https://www.allkeyshop.com/blog/buy-earth-2150-the-moon-project-cd-key-compare-prices/
-• [CD Keys] https://www.allkeyshop.com/blog/buy-earth-2150-lost-souls-cd-key-compare-prices/
+• [GoG](https://www.gog.com/game/earth_2150_trilogy) << RECOMMENDED
+• [Steam](https://store.steampowered.com/app/253880/Earth_2150_Trilogy/)
+• [CD Keys](https://www.allkeyshop.com/blog/buy-earth-2150-the-moon-project-cd-key-compare-prices/)
+• [CD Keys](https://www.allkeyshop.com/blog/buy-earth-2150-lost-souls-cd-key-compare-prices/)
 
 ## Community
 • https://steamcommunity.com/groups/InsideEarth
