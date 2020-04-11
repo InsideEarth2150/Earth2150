@@ -4,5 +4,5 @@ title: ""
 description: 
 categories:
   - Installation
-type: Video
+type: Document
 ---
